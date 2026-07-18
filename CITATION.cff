@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+
+title: "The Noēsis™ 6D Framework"
+
+message: "If you use this framework, please cite it."
+
+authors:
+
+- family-names: "Yildiz"
+  given-names: "Mehmet"
+
+version: "1.0"
+
+date-released: "2026-07-18"
+
+repository-code: "https://github.com/DigitalMehmet-Frameworks/framework-noesis-6d"
+
+url: "https://digitalmehmet.com/2026/02/25/the-noesis-6d-human-cognitive-architecture/"
