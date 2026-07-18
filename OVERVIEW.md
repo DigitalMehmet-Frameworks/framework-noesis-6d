@@ -1,8 +1,8 @@
-# The Noēsis™ 6D Framework™
+# The Noēsis 6D Framework™
 
 ## Overview
 
-The Noēsis™ 6D Framework is an interdisciplinary conceptual framework developed by Dr Mehmet Yildiz to integrate cognitive science, systems thinking, enterprise architecture, artificial intelligence, neuroscience, and complex adaptive systems into a coherent model for understanding intelligence across human, organizational, and technological domains.
+The Noēsis 6D™ Framework is an interdisciplinary conceptual framework developed by Dr Mehmet Yildiz to integrate cognitive science, systems thinking, enterprise architecture, artificial intelligence, neuroscience, and complex adaptive systems into a coherent model for understanding intelligence across human, organizational, and technological domains.
 
 Unlike traditional frameworks that focus on a single discipline, The Noēsis™ 6D Framework provides a multidimensional perspective that encourages researchers, educators, executives, architects, and technology leaders to view intelligence as an interconnected system rather than isolated components.
 
