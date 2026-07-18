@@ -72,5 +72,5 @@ July 2026
 
 ## The Noēsis™ 6D Human Architecture Framework
 
-[![The Noēsis™ 6D Human Architecture Framework](noesis-6d-human-architecture-framework-diagram.png)]([https://digitalmehmet.com](https://digitalmehmet.com/2026/02/25/the-noesis-6d-human-cognitive-architecture/))
+[![The Noēsis™ 6D Human Architecture Framework](noesis-6d-human-architecture-framework-diagram.png)]([https://digitalmehmet.com/2026/02/25/the-noesis-6d-human-cognitive-architecture/]
 
