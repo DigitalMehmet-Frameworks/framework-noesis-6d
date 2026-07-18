@@ -54,7 +54,7 @@ https://digitalmehmet.com
 
 The latest version of the white paper is available from
 
-[https://digitalmehmet.com/](https://digitalmehmet.com/2026/02/25/the-noesis-6d-human-cognitive-architecture/]
+[https://digitalmehmet.com/2026/02/25/the-noesis-6d-human-cognitive-architecture/]
 
 ---
 
