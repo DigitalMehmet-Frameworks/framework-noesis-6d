@@ -71,7 +71,6 @@ July 2026
 - ## Framework Architecture
 
 ## The Noēsis™ 6D Human Architecture Framework
-[![The Noēsis™ 6D Human Architecture Framework](noesis-6d-human-architecture-framework-diagram.png)](https://digitalmehmet.com)
 
-![The Noēsis™ 6D Human Architecture Framework](./noesis-6d-human-architecture-framework-diagram.png)
+[![The Noēsis™ 6D Human Architecture Framework](noesis-6d-human-architecture-framework-diagram.png)](https://digitalmehmet.com)
 
