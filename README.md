@@ -70,5 +70,7 @@ July 2026
 - [Overview](OVERVIEW.md)
 - ## Framework Architecture
 
-![The Noēsis™ 6D Framework](images/noesis-6d-human-achitecture-framework-diagram.png)
+## The Noēsis™ 6D Human Architecture Framework
+
+![The Noēsis™ 6D Human Architecture Framework](./noesis-6d-human-architecture-framework-diagram.png)
 
