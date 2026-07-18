@@ -70,5 +70,5 @@ July 2026
 - [Overview](OVERVIEW.md)
 - ## Framework Architecture
 
-![- noesis-6d-human-achitecture-framework-diagram.png)
+noesis-6d-human-achitecture-framework-diagram.png
 
